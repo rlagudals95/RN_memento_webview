@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "memento_web",
+    "slug": "memento_web",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "memento_web"
+}
